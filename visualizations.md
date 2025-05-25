@@ -15,11 +15,17 @@ Device usage peaks on Wednesdays (2.4K), with strong engagement also on Mondays,
 
 ## 2. Monthly Usage Trends
 
-![Monthly Trend](visualizations/monthly_trend.png)
+![Device Usage by Month](img/seasonality_monthly.jpg)
 
 **Interpretation:**  
-There is a marked increase in average device usage from March to April, indicating seasonal factors (such as springtime activity) may boost user engagement. Bellabeat could leverage this trend for time-specific promotions.
+The charts above illustrate how key activity metrics—Calories, Distance, and Steps—changed from March to April:
 
+- **Calories:** Average calories burned per user slightly decreased from 2,278.69 in March to 2,172.21 in April. This could indicate a shift in activity intensity or types of exercise.
+- **Distance:** There was a notable increase in the average distance covered, rising from 3.48 to 4.89. This suggests users engaged in longer or more frequent sessions.
+- **Steps:** The average daily step count jumped significantly from 5,001 in March to 6,845 in April, indicating a substantial boost in walking or running activity.
+
+**Summary:**  
+While calorie expenditure saw a modest dip, both distance and step count increased markedly, pointing to more frequent or longer duration activities (possibly at lower intensity) in April. This seasonal trend can inform Bellabeat’s engagement strategy, such as promoting challenges or campaigns that capitalize on increased springtime activity.
 ---
 
 ## 3. User Activity Distribution
