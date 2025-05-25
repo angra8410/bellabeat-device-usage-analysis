@@ -6,7 +6,7 @@ This section presents the key visualizations developed in Power BI, along with c
 
 ## 1. Weekly Seasonality in Device Usage
 
-![Weekday Seasonality](visualizations/weekday_seasonality.png)
+![Weekday Seasonality](visualizations/weekday_seasonality.PNG)
 
 **Interpretation:**  
 Device usage peaks on Wednesdays, Mondays, Fridays, and Saturdays, with a noticeable dip on Tuesdays and Sundays. This suggests that midweek and weekends are optimal periods for user engagement campaigns.
