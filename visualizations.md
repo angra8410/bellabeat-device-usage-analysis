@@ -30,10 +30,10 @@ While calorie expenditure saw a modest dip, both distance and step count increas
 
 ## 3. User Activity Distribution
 
-![Usage Histogram](visualizations/usage_histogram.png)
+![Usage Histogram](img/usage_histogram.png)
 
 **Interpretation:**  
-The distribution of average user activity shows a clear segmentation between highly active and less active users, suggesting the potential for targeted engagement strategies for each group.
+The distribution of average user activity reveals distinct clusters of engagement among users. Most users are concentrated within a moderate activity range, while a smaller group demonstrates significantly higher activity levels. This segmentation highlights opportunities for targeted engagement strategies: less active users may benefit from encouragement and incentives to increase their activity, while highly active users could be motivated through advanced challenges or special recognition. Understanding these patterns allows for more personalized and effective communication, helping to drive greater overall user engagement.
 
 ---
 
