@@ -39,7 +39,7 @@ The distribution of average user activity reveals distinct clusters of engagemen
 
 ## 4. Activity by Time of Day
 
-![Time of Day Activity](visualizations/time_of_day_activity.png)
+![Time of Day Activity](img/steps_calories_by_time_of_day.png)
 
 **Interpretation:**  
 Afternoon and night hours account for the highest levels of user activity (steps and calories burned), while mornings are less active. This insight can inform the timing of in-app notifications or feature releases.
@@ -48,14 +48,23 @@ Afternoon and night hours account for the highest levels of user activity (steps
 
 ## 5. Steps and Sleep Over Time
 
-![Steps and Sleep Line Chart](visualizations/steps_sleep_line.png)
+![Steps and Sleep Line Chart](img/steps_sleep_over_time.png)
 
 **Interpretation:**  
 Daily variations in steps and sleep reveal patterns and possible correlations between physical activity and rest. Highlighting these trends to users could encourage healthy habits.
 
 ---
 
-## 6. User Segmentation
+## 6. Activity Heatmap by Day and Time
+
+![Activity Heatmap by Day and Time](img/activity_heatmap_day_time.png)
+
+**Interpretation:**  
+This heatmap visualizes user activity by day of the week and hour of the day. It highlights patterns in when users are most or least active, revealing peak activity periods and potential opportunities for targeted wellness interventions or engagement strategies.
+
+---
+
+## 7. User Segmentation
 
 ![User Segments Bar Chart](visualizations/user_segments_bar.png)
 
