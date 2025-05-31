@@ -66,7 +66,7 @@ This heatmap visualizes user activity by day of the week and hour of the day. It
 
 ## 7. User Segmentation
 
-![User Segments Bar Chart](visualizations/user_segments_bar.png)
+![User Segments Bar Chart](img/user_segmentation.png)
 
 **Interpretation:**  
 The user base is split between "Active" and "Inactive" segments. This visual reinforces the need for differentiated marketing and retention approaches for each cohort.
